@@ -6,7 +6,7 @@ const Home: NextPage<{ data: string }> = (props) => {
 
   return (
     <div>
-      <h1>Hello from NextJS! - Home</h1>
+      <h1>Hello from NextJS! - Home is this page</h1>
       {data}
     </div>
   );

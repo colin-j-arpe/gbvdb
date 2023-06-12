@@ -20,4 +20,7 @@ services:
       # Login without password
       POSTGRES_HOST_AUTH_METHOD: "trust"
       # Auto-create test DB
-      POSTGRES_DB: test
+      POSTGRES_DB: gbvdb
+    ports:
+      - "5432:5432"
+      

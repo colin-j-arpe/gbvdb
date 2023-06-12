@@ -6,6 +6,7 @@ dotenv.config();
 const source = new DataSource({
   type: 'postgres' as const,
   url: process.env.DATABASE_URL,
+  database: 'gbvdb',
   entities: ['src/server/app/**/*.entity.ts'],
   migrations: ['src/server/migration/*.{ts,js}'],
   extra: {
