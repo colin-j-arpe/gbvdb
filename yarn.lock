@@ -5787,32 +5787,32 @@ graphql-ws@5.5.5:
   resolved "https://registry.yarnpkg.com/graphql-ws/-/graphql-ws-5.5.5.tgz#f375486d3f196e2a2527b503644693ae3a8670a9"
   integrity sha512-hvyIS71vs4Tu/yUYHPvGXsTgo0t3arU820+lT5VjZS2go0ewp2LqyCgxEN56CzOG7Iys52eRhHBiD1gGRdiQtw==
 
-graphql-zeus-core@^7.0.10:
-  version "7.0.10"
-  resolved "https://registry.yarnpkg.com/graphql-zeus-core/-/graphql-zeus-core-7.0.10.tgz#c43ce64b34f64d5e610245777c4f52f61988c71f"
-  integrity sha512-joHjjKjLCITYwMja8w9w8jxI8IXZKf3NIDmV1scYvZSg96/9aQMOahXDyDaq+7Ah286o84bmB3luya+SLUrC2w==
+graphql-zeus-core@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/graphql-zeus-core/-/graphql-zeus-core-7.1.0.tgz#a3ccaa7be30fdd408dc5d9ea7eac47cdbc823a37"
+  integrity sha512-j6hqu0USa4aJJ9xc8ar/tIrA/G8Hp/u37+8nf3UQO2Wgwm/srkGgXidN+JlDxeZBCuofy0FKYNDXb2zHbAmBvA==
   dependencies:
     graphql "^16.5.0"
     graphql-js-tree "^3.0.2"
 
-graphql-zeus-jsonschema@^7.0.10:
-  version "7.0.10"
-  resolved "https://registry.yarnpkg.com/graphql-zeus-jsonschema/-/graphql-zeus-jsonschema-7.0.10.tgz#d966c7bb83b38fb5a8de3d196a03211db6bbb48b"
-  integrity sha512-CEJ6S5Dg03yrb12I7t/1193FYcBxnQpiVRFAa/rnz0p9TFQu8QTdeBmpK/5l/PWwmL1l+AdEoMZgxzD1xEZpsg==
+graphql-zeus-jsonschema@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/graphql-zeus-jsonschema/-/graphql-zeus-jsonschema-7.1.0.tgz#c4e38de82b4aedd6ec5285a25b19e27d6970fe55"
+  integrity sha512-sFTJ8gfPvXx45IGBDCxAbyFslQuDLMRQfuJoWy0n/L2sn6ZrojpPSXtVcPYCNjp3WO4J4lSfca7UIwCQTHw2uw==
   dependencies:
     graphql "^16.5.0"
     graphql-js-tree "^1.0.5"
     json-schema "^0.4.0"
 
-graphql-zeus@^7.0.10:
-  version "7.0.10"
-  resolved "https://registry.yarnpkg.com/graphql-zeus/-/graphql-zeus-7.0.10.tgz#1a991f8d80985ef11fa6261d168ab40b9f7582d5"
-  integrity sha512-xzpzvPIHXRhGlrzvp2o49GkXF8/iGfo9n7dl6iSkzLzU/+HJExXQ1ag+YCdpoVvL8QHLQQoTKMu2Nw5BLSrv4A==
+graphql-zeus@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/graphql-zeus/-/graphql-zeus-7.1.0.tgz#87628978140b4abbb3c93c948de5f79438ca2914"
+  integrity sha512-KGC3CgRNnPxJ+dj/BC6R3Wd0GIT7bz3Gj2xxVUzUEkb7pjsSD9IegjezUW+wBlWIpUkuPhsYIL6bAf0w79RNfw==
   dependencies:
     config-maker "^0.0.6"
     cross-fetch "^3.0.4"
-    graphql-zeus-core "^7.0.10"
-    graphql-zeus-jsonschema "^7.0.10"
+    graphql-zeus-core "^7.1.0"
+    graphql-zeus-jsonschema "^7.1.0"
     yargs "^16.1.1"
 
 graphql@15.4.0:
