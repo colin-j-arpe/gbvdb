@@ -1851,10 +1851,10 @@
     webpack "5.106.0"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^11.1.22":
-  version "11.1.22"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-11.1.22.tgz#f463ee3c6e3e05e0b85894d8f69269b7de5d7a8d"
-  integrity sha512-mPNshGpl41vTtXoaOYzSZLiZAL9C08T+o/7DdtgATNPTFm6h1+UTg+mJo5ne3sDhqNx65y7gVGWVph/fbB9Hkw==
+"@nestjs/common@^11.1.23":
+  version "11.1.23"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-11.1.23.tgz#2bb924a3e7cd6184fff28b0363d267ce43a90ec5"
+  integrity sha512-qKgEqwQXHIVu8TwiISmgbTrGHAFBsseP86KNolBZwAiHQryinJ5FPiDpp0ZJBBryY+WEMnsqaCa4TSxVuQEWug==
   dependencies:
     uid "2.0.2"
     file-type "21.3.4"
