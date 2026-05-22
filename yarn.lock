@@ -1920,10 +1920,10 @@
   resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-11.0.5.tgz#dd3e506c2fb7ddc80fd1321c01cc1a0ca6d6b609"
   integrity sha512-ulQX6mbjlws92PIM15Naes4F4p2JoxGnIJuUsdXQPT+Oo2sqQmENEZXM7eYuimocfHnKlcfZOuyzbA33LwUlOQ==
 
-"@nestjs/platform-express@^11.1.22":
-  version "11.1.22"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-11.1.22.tgz#025c6b38c2dbc689db38bedab1e01443803fb890"
-  integrity sha512-M0hMvQpPjfuMmhIvcZ/XJJb1rAr8sNfDCS3b+QMOxquUWFZSNAONtTSm0L+5I4WqVaG3RWRewhp78Kvc0u1tmw==
+"@nestjs/platform-express@^11.1.23":
+  version "11.1.23"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-11.1.23.tgz#5e697221fc1374b32330aadac10f8e86f5addaf8"
+  integrity sha512-7TQ9v2Z9lej8btTYK1VUVB3nZr0lXFNFiyI/iOc0jAOg31dHdpAWtnMMm9iUvyAfq/ssw7dsBhjCHOmEJJKr0A==
   dependencies:
     cors "2.8.6"
     express "5.2.1"
