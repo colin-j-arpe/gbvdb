@@ -1909,10 +1909,10 @@
     tsconfig-paths "4.2.0"
     typescript "~6.0.2"
 
-"@nestjs/common@^12.3.1":
-  version "12.3.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-12.3.1.tgz#f36b1c0d9afc994998a24eaabda028dd40eb1ab0"
-  integrity sha512-Wn1cOLkC/TmWnGmfhGfYPjH3sgHppANXws5ofWazPdtA6U6x5/5gNAlAX0tqMRC9t7ts1DE8+N5mMyL6ZXdMWQ==
+"@nestjs/common@^12.3.2":
+  version "12.3.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-12.3.2.tgz#5650f8bab82c5881e000129984f7ee377144207c"
+  integrity sha512-XPNu75rXiDBuQ/EECiA0urFJ7bAycA1/xTrKnKct5vEF7A5FE0LyOem/EhRZI0Cq1xAGPDuTB89sFMqeSPWjzQ==
   dependencies:
     uid "2.0.2"
     "@standard-schema/spec" "1.1.0"
